@@ -1,7 +1,7 @@
 {
-  "name": "csocker",
+  "name": "vaccine",
   "version": "1.0.0",
-  "description": "cs docker clone in node",
+  "description": "Functional DI Framework",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GAlexIHU/csocker.git"
+    "url": "git@github.com:GAlexIHU/vaccine.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GAlexIHU/csocker/issues"
+    "url": "git@github.com:GAlexIHU/vaccine.git/issues"
   },
-  "homepage": "https://github.com/GAlexIHU/csocker#readme",
+  "homepage": "git@github.com:GAlexIHU/vaccine.git#readme",
   "dependencies": {},
   "devDependencies": {
     "@codingsans/eslint-config": "^5.2.1",
